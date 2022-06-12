@@ -1,0 +1,5 @@
+PREFERRED METHOD OF EXECUTING PROJECT:
+
+OPEN "execute_all.R"
+
+CLICK "run"
