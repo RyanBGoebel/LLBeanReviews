@@ -1,4 +1,4 @@
-# aly6040finalproject
+# Identifying Product Improvement Opportunities from E-Commerce Reviews
 
 **Project description:** Final Project for ALY 6040 – Introduction to Data Mining and Applications
 
