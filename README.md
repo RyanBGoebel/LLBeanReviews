@@ -16,6 +16,6 @@ The other team member was responsible for scraping the data from the e-commerce 
 
 ### Going Beyond the Coursework
 
-While logistic regression and basic word frequency text mining using the *tm* package in R were covered in the course, web scraping and universal dependency parsing learned as part of our team's own initiative.
+While logistic regression and basic word frequency text mining using the *tm* package in R were covered in the course, web scraping and universal dependency parsing were learned as part of our team's own initiative.
 
 *Note: Only the code written by myself is included in this repository.*
